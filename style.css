@@ -1,0 +1,55 @@
+body
+{
+    font-family: Arial, sans-serif;
+    background-color: #233142;
+}
+
+h1, h2, h3
+{
+color: #f95959;
+}
+
+h1
+{
+    font-size: 30px;
+    text-align: center;
+}
+
+h2
+{
+    font-size: 26px;
+}
+
+h3
+{
+    font-size: 20px;
+}
+
+p, li, select, button
+{
+    color: #e3e3e3;
+}
+
+select, button
+{
+    background-color: #455d7a;
+    border-radius: 5px;
+}
+
+button:hover
+{
+    color: #f95959;
+}
+
+a
+{
+    color: #455d7a;
+}
+
+#credit
+{
+    font-style: italic;
+}
+
+
+
