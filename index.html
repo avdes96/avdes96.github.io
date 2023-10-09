@@ -3,11 +3,59 @@ Educative. https://www.educative.io/answers/how-to-write-hello-world-in-html
 [Accessed 09 October 2023]. Link provided in SSE Lab 1 - Web Sites and
 Web Servers spec page-->
 
-
 <html>
   <head>
+   <link href = "/style.css" rel= "stylesheet"/>
   </head>
   <body>
-    <h1>Hello World<h1>
+    <h1>Welcome to my webpage!</h1>
+	<h2>The London Underground</h2>
+	    <p>The London Underground, or the Tube, is an underground
+	    rail network which spans London. It makes is easy to get
+	      around London!</p>
+	    <img src = "markus-freise-Zi8T2OwJf44-unsplash.jpg"
+		 alt = "A  picture of a tube at South Kensington
+			Station."/>
+	    <p id = "credit">Photo credit to Markus Freise, via unsplash </p>
+	      <p>The Tube consists of various different lines, which
+		includes: </p>
+	      <ul>
+		<li>The Central Line</li>
+		<li>The Victoria Line</li>
+		<li>The Picadilly Line</li>
+		<li>The Jubilee Line</li>
+		<li>The Northern Line</li>
+		<li>The District Line</li>
+		<li>The Circle Line</li>
+		<li>The Hammersmith and City Line</li>
+	      </ul>
+
+    <p>Do you have a favourite tube line?</p>
+    
+    <p>
+    <label for="tube-poll">Pick from the dropdown!:</label>
+    <select name="tube" id="tube-poll">
+      <option value="central">The Central Line</option>
+      <option value="victoria">The Victoria Line</option>
+      <option value="picadilly">The Picadilly Line</option>
+      <option value="jubilee">The Jubilee Line</option>
+      <option value="northern">The Northern Line</option>
+      <option value="district">The District Line</option>
+      <option value="circle">The Circle Line</option>
+      <option value="hamandcity">The Central Line</option>
+      <option value="other">Other</option>
+      </select>
+    </p>
+    <button type="button">Submit answer!</button>
+
+    <h3>Links that may be of interest</h3>
+    <ul>
+      <li><a href =
+	"https://en.wikipedia.org/wiki/London_Underground">London
+	  Underground Wikipedia Page</a> </li>
+      <li><a href = "https://tfl.gov.uk/">Transport for London
+	  website</a></li>
+    </ul>    
+    
   </body>
   <html>
