@@ -1,1 +1,46 @@
 List of links during SSE Lab 1 - Web Sites and Web Servers
+
+MDN Web docs:
+<link>: The External Resource Link element;
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
+[Accessed 09 October 2023]
+<li>: The List Item element;
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li [Accessed
+09 October 2023]
+CSS styling text;
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text [Accessed
+09 October 2023]
+<li>: The List Item element;
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li [Accessed
+09 October 2023]
+Fundamental text and font styling;
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals
+[Accessed 09 October 2023]
+<select>: The HTML Select element;
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
+[Accessed 09 October 2023]
+<button>: The Button element;
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button
+[Accessed 09 October 2023]
+<img>: The Image Embed element
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+[Accessed 09 October 2023]
+<a>: The Anchor element
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+[Accessed 09 October 2023]
+
+Transport for London. https://tfl.gov.uk/ [Accessed 09 October 2023]
+Wikipedia. London
+Underground. https://en.wikipedia.org/wiki/London_Underground [Accessed 09 October 2023]
+
+Unsplash Photo credits:
+Photo by Markus Freise
+href="https://unsplash.com/@markusfreise?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Markus
+Freise</a> on <a
+href="https://unsplash.com/photos/Zi8T2OwJf44?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> [Accessed 09 October 2023]
+  
+
+
+
+
+
