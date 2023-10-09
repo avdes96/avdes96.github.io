@@ -22,11 +22,13 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
 <button>: The Button element;
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button
 [Accessed 09 October 2023]
-<img>: The Image Embed element
+<img>: The Image Embed element;
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
 [Accessed 09 October 2023]
-<a>: The Anchor element
+<a>: The Anchor element;
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+[Accessed 09 October 2023]
+<h1>–<h6>: The HTML Section Heading; https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 [Accessed 09 October 2023]
 
 Transport for London. https://tfl.gov.uk/ [Accessed 09 October 2023]
@@ -34,13 +36,18 @@ Wikipedia. London
 Underground. https://en.wikipedia.org/wiki/London_Underground [Accessed 09 October 2023]
 
 Unsplash Photo credits:
-Photo by Markus Freise
+Unsplash. Photo by Markus
+Freise. https://unsplash.com/photos/Zi8T2OwJf44 [Accessed 09 October 2023
+Credit text pasted from Unsplash:
 href="https://unsplash.com/@markusfreise?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Markus
 Freise</a> on <a
 href="https://unsplash.com/photos/Zi8T2OwJf44?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> [Accessed 09 October 2023]
   
+Shecodes.io. CSS Color Palette:
+267. https://palettes.shecodes.io/palettes/267 [Accessed 09 October
+2023]
 
-
-
+Educative. https://www.educative.io/answers/how-to-write-hello-world-in-html [Accessed 09 October
+2023]
 
 
